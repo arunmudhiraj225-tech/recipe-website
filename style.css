@@ -1,0 +1,53 @@
+.bg-container{
+    background-color: #bc9f7c;
+    
+}
+.main-heading{
+    color: white;
+    font-family: 'serif';
+    font-weight: bold;
+}
+.para{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.second-contianer{
+    background-color: #decece;
+    width: 100%;
+    height: 100vh;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-top: 20px;
+}
+.card-container{
+    background-color: white;
+    border-radius: 10px;
+}
+.img-text{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+.Ingredients-style{
+    color: #956666;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+h2{
+    color: #8b5a34;
+    border-bottom: 2px solid #8b5a34;
+    padding-bottom: 5px;
+
+}
+.page-container{
+    background-color: #956666;
+    padding: 40px;
+}
+.page-heading{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+.symbol{
+    font-size: 25px;
+}
